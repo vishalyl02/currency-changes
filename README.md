@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+Screenshot of Live web application:
+
+<img width="1149" alt="Screenshot 2023-12-30 at 2 55 46 PM" src="https://github.com/vishalyl02/currency-changes-frontend/assets/67411296/cc25eb9c-06fd-4afc-aa83-e9a449749123">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
